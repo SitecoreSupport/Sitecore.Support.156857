@@ -1,5 +1,6 @@
 # Sitecore.Support.156857
-Allows the Recaptcha field to use the context language
+The `Captcha` field in `ASP.NET MVC Forms` doesn't use the context language.<br/>
+The patch fixes this issue.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.156857/blob/master/LICENSE).  
